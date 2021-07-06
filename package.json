@@ -1,0 +1,25 @@
+{
+  "name": "content-managment-system",
+  "version": "1.0.0",
+  "description": "A simple CLI app for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneconwell/content-managment-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaneconwell/content-managment-system/issues"
+  },
+  "homepage": "https://github.com/shaneconwell/content-managment-system#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.1",
+    "mysql": "^2.18.1"
+  }
+}
